@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       title: "ShiFuMi",
+      debugShowCheckedModeBanner: false,
       home: SafeArea(child: Loading()),
     );
   }
