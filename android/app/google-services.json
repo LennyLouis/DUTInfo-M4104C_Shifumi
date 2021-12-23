@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961448813024",
+    "firebase_url": "https://shifumi-46359-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shifumi-46359",
+    "storage_bucket": "shifumi-46359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961448813024:android:1570843f8ac0681c3d8b85",
+        "android_client_info": {
+          "package_name": "fr.lennylouis.shifumi.shifumi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961448813024-jd5qkurjvttokmarnugd8aqupjjcciqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwECLTBxfTW0fEFUxmcde3EuZbmYPeouk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961448813024-jd5qkurjvttokmarnugd8aqupjjcciqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
